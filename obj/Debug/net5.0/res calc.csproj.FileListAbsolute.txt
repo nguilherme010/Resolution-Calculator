@@ -1,0 +1,16 @@
+C:\Users\gndes\Desktop\res calc\bin\Debug\net5.0\res calc.exe
+C:\Users\gndes\Desktop\res calc\bin\Debug\net5.0\res calc.deps.json
+C:\Users\gndes\Desktop\res calc\bin\Debug\net5.0\res calc.runtimeconfig.json
+C:\Users\gndes\Desktop\res calc\bin\Debug\net5.0\res calc.runtimeconfig.dev.json
+C:\Users\gndes\Desktop\res calc\bin\Debug\net5.0\res calc.dll
+C:\Users\gndes\Desktop\res calc\bin\Debug\net5.0\ref\res calc.dll
+C:\Users\gndes\Desktop\res calc\bin\Debug\net5.0\res calc.pdb
+C:\Users\gndes\Desktop\res calc\obj\Debug\net5.0\res calc.csprojAssemblyReference.cache
+C:\Users\gndes\Desktop\res calc\obj\Debug\net5.0\res calc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gndes\Desktop\res calc\obj\Debug\net5.0\res calc.AssemblyInfoInputs.cache
+C:\Users\gndes\Desktop\res calc\obj\Debug\net5.0\res calc.AssemblyInfo.cs
+C:\Users\gndes\Desktop\res calc\obj\Debug\net5.0\res calc.csproj.CoreCompileInputs.cache
+C:\Users\gndes\Desktop\res calc\obj\Debug\net5.0\res calc.dll
+C:\Users\gndes\Desktop\res calc\obj\Debug\net5.0\ref\res calc.dll
+C:\Users\gndes\Desktop\res calc\obj\Debug\net5.0\res calc.pdb
+C:\Users\gndes\Desktop\res calc\obj\Debug\net5.0\res calc.genruntimeconfig.cache
